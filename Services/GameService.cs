@@ -5,7 +5,7 @@ namespace Rock_Paper_Scissor_Lizard_Spock.Services
     public class GameService
     {
         private List<GameModel> _model;
-
+        private Random _random;
         public GameService()
         {
             _model = new List<GameModel>
@@ -16,6 +16,7 @@ namespace Rock_Paper_Scissor_Lizard_Spock.Services
             new GameModel { Choice = "Lizard", Beats = new List<string> { "Spock", "Paper" } },
             new GameModel { Choice = "Spock", Beats = new List<string> { "Scissors", "Rock" } }
         };
+        
         }
 
         public string PlayGame(string playerChoice, string opponentChoice)

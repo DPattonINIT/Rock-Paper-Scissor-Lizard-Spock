@@ -7,9 +7,9 @@ namespace Rock_Paper_Scissor_Lizard_Spock.Controllers
     [Route("[controller]")]
     public class GameController : ControllerBase
     {
-                private readonly GameService _gameService;
+        private readonly GameService _gameService;
 
-        
+
         public GameController(GameService gameService)
         {
             _gameService = gameService;
@@ -19,14 +19,14 @@ namespace Rock_Paper_Scissor_Lizard_Spock.Controllers
         [Route("game/{playerChoice}/{opponentChoice}")]
         public string PlayGame(string playerChoice, string opponentChoice)
         {
-           
-           
+
+
             if (string.IsNullOrEmpty(playerChoice) || string.IsNullOrEmpty(opponentChoice))
             {
                 return "Both player and opponent choices must be provided.";
             }
 
-           
+
             return _gameService.PlayGame(playerChoice, opponentChoice);
         }
     }
