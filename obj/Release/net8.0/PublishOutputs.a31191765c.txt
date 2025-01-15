@@ -1,0 +1,11 @@
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Rock-Paper-Scissor-Lizard-Spock.exe
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\appsettings.json
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Rock-Paper-Scissor-Lizard-Spock.dll
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Rock-Paper-Scissor-Lizard-Spock.deps.json
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Rock-Paper-Scissor-Lizard-Spock.runtimeconfig.json
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Rock-Paper-Scissor-Lizard-Spock.pdb
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week2\Rock,Paper,Scissors,Lizard,Spock\Rock-Paper-Scissor-Lizard-Spock\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

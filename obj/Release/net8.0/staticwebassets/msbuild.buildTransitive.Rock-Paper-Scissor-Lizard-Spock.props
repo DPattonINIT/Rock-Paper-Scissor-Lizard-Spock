@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Rock-Paper-Scissor-Lizard-Spock.props" />
+</Project>
