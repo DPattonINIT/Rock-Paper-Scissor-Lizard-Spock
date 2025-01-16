@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rock-Paper-Scissor-Lizard-Spock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6665fe88df2c62e872e01b46a5a2e74e8211f35a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce02591e8090261af58e499a69e64fbd3242fc01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rock-Paper-Scissor-Lizard-Spock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rock-Paper-Scissor-Lizard-Spock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
