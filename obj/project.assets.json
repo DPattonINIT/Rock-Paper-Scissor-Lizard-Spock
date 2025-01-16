@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tgame\\.nuget\\packages\\": {}
+    "C:\\Users\\dlama\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tgame\\Documents\\CodeStack\\GitRepository\\Rock-Paper-Scissor-Lizard-Spock\\Rock-Paper-Scissor-Lizard-Spock.csproj",
+      "projectUniqueName": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week2\\Rock,Paper,Scissors,Lizard,Spock\\DPattonRockPaperScissorLizardSpock\\Rock-Paper-Scissor-Lizard-Spock.csproj",
       "projectName": "Rock-Paper-Scissor-Lizard-Spock",
-      "projectPath": "C:\\Users\\tgame\\Documents\\CodeStack\\GitRepository\\Rock-Paper-Scissor-Lizard-Spock\\Rock-Paper-Scissor-Lizard-Spock.csproj",
-      "packagesPath": "C:\\Users\\tgame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tgame\\Documents\\CodeStack\\GitRepository\\Rock-Paper-Scissor-Lizard-Spock\\obj\\",
+      "projectPath": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week2\\Rock,Paper,Scissors,Lizard,Spock\\DPattonRockPaperScissorLizardSpock\\Rock-Paper-Scissor-Lizard-Spock.csproj",
+      "packagesPath": "C:\\Users\\dlama\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week2\\Rock,Paper,Scissors,Lizard,Spock\\DPattonRockPaperScissorLizardSpock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tgame\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dlama\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -493,7 +493,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

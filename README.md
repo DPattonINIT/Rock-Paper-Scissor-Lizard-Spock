@@ -15,6 +15,8 @@ I created a controller, service, and model that will take logic and user respons
 Thao Vang
 "I see that you have already made the logic for who wins. thats great. having things case sensitive is easy fix with ToLower() method just so its easier for user(i know you are probably going to use buttons in place but just in case).
 
+Figma Approval:
+Isaiah F
 
 Notes:
 Figma:
