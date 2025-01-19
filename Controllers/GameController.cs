@@ -3,31 +3,22 @@ using Rock_Paper_Scissor_Lizard_Spock.Services;
 
 namespace Rock_Paper_Scissor_Lizard_Spock.Controllers
 {
+    [Route("api/game")]
     [ApiController]
-    [Route("[controller]")]
     public class GameController : ControllerBase
     {
         private readonly GameService _gameService;
-
 
         public GameController(GameService gameService)
         {
             _gameService = gameService;
         }
 
-        [HttpGet]
-        [Route("game/{playerChoice}/{opponentChoice}")]
-        public string PlayGame(string playerChoice, string opponentChoice)
+        [HttpGet("computer/{playerChoice}")]
+        public ActionResult<string> GetComputerChoice(string playerChoice)
         {
-
-
-            if (string.IsNullOrEmpty(playerChoice) || string.IsNullOrEmpty(opponentChoice))
-            {
-                return "Both player and opponent choices must be provided.";
-            }
-
-
-            return _gameService.PlayGame(playerChoice, opponentChoice);
+            string computerChoice = _gameService.GetComputerChoice(playerChoice);
+            return Ok(computerChoice);
         }
     }
 }
